@@ -1020,7 +1020,6 @@ int Gioca(int i, int flag, int CounterJason, int i_Zona)
 		{
 			Giacomo.Zaino[Coltello] = 1;
 			Marzia.Zaino[Adrenalina] = 2;
-			Giacomo.Zaino[Bende] = 10;
 
 			Giacomo.Stato = 2;
 			Marzia.Stato = 2;
